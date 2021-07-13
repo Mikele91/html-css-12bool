@@ -15,7 +15,8 @@ border:1px solid red ;
     border: 1px solid white;
 }
 .debug [class*=col-xs-green-]{
-    background-color:  #00e165;;
+    border:5px  solid blue;
+    background-color:  #00e165;
 }
 .debug [class*=col-offset]{
     
