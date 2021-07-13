@@ -17,6 +17,10 @@ border:1px solid red ;
 .debug [class*=col-xs-green-]{
     background-color:  #00e165;;
 }
+.debug [class*=col-offset]{
+    
+    border: none;
+}
 
  /* framework  */
  .row{
@@ -110,7 +114,7 @@ border:1px solid red ;
 }
 .col-offset-11{
     margin-left: calc((100% / 12) * 11);
-    
+}
 .col-offset-12{
     margin-left: calc((100% / 12) * 12);
 }
